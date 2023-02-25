@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @asaphkalala
+# 👋 Hi, I’m @asaphkalala
 - 👀 I’m interested in ... computer graphics and animation 
 - 🌱 I’m currently learning ... c++ (lol help)
 - 💞️ I’m looking to collaborate on ...
