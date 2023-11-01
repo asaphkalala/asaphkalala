@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @asaphkalala
-- 👀 I’m interested in the computer graphics industry 
+- 👀 I’m interested in the software development and machine learning
 - 🌱 I’m currently learning c++, typescript and react
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: @asaphkalala on all social media or email me on asaphkalala@gmail.com
